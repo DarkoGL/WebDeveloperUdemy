@@ -1,10 +1,8 @@
-# WebDeveloperUdemy
-
 # Music Festival Project 
 
 # Stack: HTML, SCSS, JavaScript, NodeJS
 
---------------------------------------------------------PREVIEW--------------------------------------------------------
+# --------------------------------------------------------PREVIEW--------------------------------------------------------
 
-scss-node-festival.netlify.app
+# scss-node-festival.netlify.app
 
