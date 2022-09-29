@@ -1,8 +1,8 @@
 # Music Festival Project 
 
-# Stack: HTML, SCSS, JavaScript, NodeJS
+ Stack: HTML, SCSS, JavaScript, NodeJS
 
 # --------------------------------------------------------PREVIEW--------------------------------------------------------
 
-# scss-node-festival.netlify.app
+ [scss-node-festival.netlify.app]
 
